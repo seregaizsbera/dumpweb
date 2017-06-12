@@ -1,0 +1,11 @@
+DELEGATES_PREFERENCE=delegateValidatorList
+USER_BUILD_PREFERENCE=enabledBuildValidatorListorg.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;com.ibm.jee.sdo.jdbc.ui.validators.JDBCMediatorConnectionFileValidator;com.ibm.ast.ws.ext.validator.WsExtValidator;
+USER_MANUAL_PREFERENCE=enabledManualValidatorListorg.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;com.ibm.jee.sdo.jdbc.ui.validators.JDBCMediatorConnectionFileValidator;com.ibm.ast.ws.ext.validator.WsExtValidator;
+USER_PREFERENCE=overrideGlobalPreferencestruedisableAllValidationfalseversion1.2.700.v201508251749
+disabled=06target
+eclipse.preferences.version=1
+override=true
+suspend=false
+vals/com.ibm.etools.javaee.core.ProjectStructureValidator/global=FF01
+vals/com.ibm.etools.maven.javaee.ui.MavenJEERuntimeV2Validator/global=FF01
+vf.version=3
